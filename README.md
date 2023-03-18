@@ -7,3 +7,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="bash" width="45" height="45"/>
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hardal7&theme=dark&background=000000)](https://git.io/streak-stats)
