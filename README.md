@@ -5,12 +5,12 @@ Open to any collobration work </h3>
 
 - 🔭 I’m currently working on [Clean Chess](https://github.com/riccardocescon/clean_chess)
 
-- 🌱 I’m currently learning **Ruby, APIs & Flutter**
+- 🌱 I’m currently learning **Ruby, Rails & SQL**
 
 - 👨‍💻 All of my projects are available at [hardal.me](http://hardal.me)
 
 
-- 📫 How to reach me **hardal#2066** on discord  
+- 📫 How to reach me **hardal_** on discord  
 
 
 <p align="left">
