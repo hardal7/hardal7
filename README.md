@@ -9,7 +9,7 @@ I'm a programmer and Linux user from Turkey. I enjoy working on random projects,
 <h4>Tools and Languages I use</h4>
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,git)  
-![My Skills](https://skillicons.dev/icons?i=linux,bash,cmake,neovim,mysql,dart,flutter) 
+![My Skills](https://skillicons.dev/icons?i=linux,bash,neovim,mysql,dart,flutter) 
 
   <details>
   <summary>My Github Stats</summary>
